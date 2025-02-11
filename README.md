@@ -48,5 +48,4 @@ jupyter notebook jax_comparison_ecosystem.ipynb
 - [Stax - Construcción de Modelos en JAX](https://www.kaggle.com/code/aakashnain/building-models-in-jax-part1-stax)
 
 ## **Autor**
-Proyecto desarrollado por **[Daniel Ramírez Vaquero](https://github.com/DaniRamirezVaquero)** en el marco del Máster de FP en Inteligencia Artificial y Big Data.
-
+Proyecto desarrollado por Yeray Mata Rodriguez
